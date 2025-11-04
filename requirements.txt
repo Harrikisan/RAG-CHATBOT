@@ -1,8 +1,9 @@
 fastapi
 uvicorn
 python-dotenv
+docling
+langchain-docling
 langchain
 langchain-groq
 langchain-huggingface
 faiss-cpu
-python-multipart
