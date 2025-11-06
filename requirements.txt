@@ -7,3 +7,6 @@ langchain
 langchain-groq
 langchain-huggingface
 faiss-cpu
+langchain_community
+python-multipart
+sentence-transformers
